@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&lines=I'm+Aida+Isayeva)]( https://aideisayevaa.github.io/Portfolio/)
 
 <h1 align="center">Hi 👋, I'm Aida</h1>
-- 🔭 I’m currently working on [My Portfolio](https://aideisayevaa.github.io/My_Portfolio/)
+- 🔭 I’m currently working on ![My Portfolio](https://aideisayevaa.github.io/My_Portfolio/)
 
 - 🌱 I’m currently learning **Full-Stack web development**
 
