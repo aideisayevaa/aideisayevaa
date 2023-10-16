@@ -1,9 +1,9 @@
 <!--![Profile views](https://gpvc.arturio.dev/aideisayevaa)  -->
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&lines=I'm+Aida+Isayeva)]( https://aideisayevaa.github.io/Portfolio/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&lines=I'm+Aida+Isayeva)]
 
 <h1 align="center">Hi 👋, I'm Aida</h1>
-- 🔭 I’m currently working on ![My Portfolio](https://aideisayevaa.github.io/My_Portfolio/)
+- 🔭 I’m currently working on my portfolio
 
 - 🌱 I’m currently learning **Full-Stack web development**
 
@@ -23,12 +23,7 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/aideisayevaa)
 
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aideisayevaa&show_icons=true&count_private=true) 
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aideisayevaa)](https://github.com/aideisayevaa/github-readme-stats)
-  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aideisayevaa)
     
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aideisayevaa)  
 
