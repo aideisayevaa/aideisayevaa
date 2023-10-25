@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/aideisayevaa) 
+<!-- ![Profile views](https://gpvc.arturio.dev/aideisayevaa) -->
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&lines=I'm+Aida+Isayeva)]
 
