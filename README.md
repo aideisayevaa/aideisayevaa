@@ -1,6 +1,6 @@
 <!-- ![Profile views](https://gpvc.arturio.dev/aideisayevaa) -->
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&lines=I'm+Aida+Isayeva)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&lines=I'm+Aida+Isayeva)
 
 <h1 align="center">Hi 👋, I'm Aida</h1>
 - 🔭 I’m currently working on my portfolio
